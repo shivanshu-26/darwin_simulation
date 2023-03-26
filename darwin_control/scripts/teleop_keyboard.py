@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import rospy
 from geometry_msgs.msg import Twist
@@ -17,7 +17,7 @@ ANG_VEL_STEP  = 0.1
 
 info = """
 ----------------------------------------
-Husky Robot Keyboard Teleoperation Panel
+Darwin Robot Keyboard Teleoperation Panel
 ----------------------------------------
                  W
              A   S   D
